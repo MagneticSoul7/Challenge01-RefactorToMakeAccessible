@@ -15,6 +15,12 @@
 | VS Code   |  |   
 | Github    |  |   
 
+## User Story
+
+"AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines"
+
 ## Description
 
 Horiseon is a social media marketing website that I was asked to refactor to make it accessible and more efficient. This was the Challenge 01 homework assignment for the Full-stack Software Devleopment Bootcamp I was enrolled in through Arizona State University (ASU). The assignment was to refactor the code to make it accessible while eliminating any unnecessary code. 
@@ -50,3 +56,6 @@ No License.
 
 ## Deployed Link 
 
+https://magneticsoul7.github.io/Challenge01-RefactorToMakeAccessible/
+
+(Having technical errors with the deployed website - Trying to fix it)
