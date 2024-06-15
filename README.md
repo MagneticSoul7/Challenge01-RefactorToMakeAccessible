@@ -4,20 +4,11 @@
 #### Refactor code on an already-existing website to make it accessible and more efficient.
 --------
 
-## Table of Contents: 
+## Description
 
-1. Technologies Used <br>
-2. User Story <br>
-3. Acceptance Criteria <br>
-4. Description <br>
-5. Installation <br>
-6. Usage <br>
-7. Mockup <br>
-8. Contributors <br>
-9. License <br>
-10. Author Info <br>
-11. Deployed Link <br>
+Horiseon is a social media marketing website that I was asked to refactor to make it accessible and more efficient. This was the Challenge 01 homework assignment for the Full-stack Software Devleopment Bootcamp I was enrolled in through Arizona State University (ASU). The assignment was to refactor the code to make it accessible while eliminating any unnecessary code. 
 
+I changed all the non-semantic elements to semantic elements and updated the css to match the semantic html elements. I put some of the code in a slightly more logical order and condensed some of the repetitive code into a much shorter, more efficient code. There were no alt attributes on any of the photos or images, so I added a different alt attribute to all seven of them. I also updated the title in the html to more accurately reflect what the website is for. Lastly, I added comments in both the html and css to show the company or client what code I changed, exactly where I made the changes, and why I made those changes. 
 
 ## Technologies Used
 
@@ -30,32 +21,40 @@
 | VS Code   |  |   
 | Github    |  |   
 
+## Table of Contents: 
+
+1. Description <br>
+2. Technologies Used <br>
+3. Table of Contents <br>
+4. User Story <br>
+5. Acceptance Criteria <br>
+6. Installation <br>
+7. Usage <br>
+8. Mockup <br>
+9. Contributors <br>
+10. License <br>
+11. Author Info <br>
+12. Deployed Link <br>
+
 ## User Story
 
 "AS A marketing agency <br>
 I WANT a codebase that follows accessibility standards <br>
 SO THAT our own site is optimized for search engines" 
 
-
 ## Acceptance Criteria
 
 "GIVEN a webpage meets accessibility standards <br>
 WHEN I view the source code <br>
-THEN I find semantic HTML elements <br>
+THEN I find semantic HTML elements. <br>
 WHEN I view the structure of the HTML elements <br>
-THEN I find that the elements follow a logical structure independent of styling and positioning <br>
+THEN I find that the elements follow a logical structure independent of styling and positioning. <br>
 WHEN I view the image elements <br>
-THEN I find accessible alt attributes <br>
+THEN I find accessible alt attributes. <br>
 WHEN I view the heading attributes <br>
-THEN they fall in sequential order <br>
+THEN they fall in sequential order. <br>
 WHEN I view the title element <br>
-THEN I find a concise, descriptive title"
-
-## Description
-
-Horiseon is a social media marketing website that I was asked to refactor to make it accessible and more efficient. This was the Challenge 01 homework assignment for the Full-stack Software Devleopment Bootcamp I was enrolled in through Arizona State University (ASU). The assignment was to refactor the code to make it accessible while eliminating any unnecessary code. 
-
-I changed all the non-semantic elements to semantic elements and updated the css to match the semantic html elements. I put some of the code in a slightly more logical order and condensed some of the repetitive code into a much shorter, more efficient code. There were no alt attributes on any of the photos or images, so I added a different alt attribute to all seven of them. I also updated the title in the html to more accurately reflect what the website is for. Lastly, I added comments in both the html and css to show the company or client what code I changed, exactly where I made the changes, and why I made those changes. 
+THEN I find a concise, descriptive title."
 
 ## Installation 
 
