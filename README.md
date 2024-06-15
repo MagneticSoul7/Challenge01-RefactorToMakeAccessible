@@ -4,6 +4,21 @@
 #### Refactor code on an already-existing website to make it accessible and more efficient.
 --------
 
+## Table of Contents: 
+
+1. Technologies Used <br>
+2. User Story <br>
+3. Acceptance Criteria <br>
+4. Description <br>
+5. Installation <br>
+6. Usage <br>
+7. Mockup <br>
+8. Contributors <br>
+9. License <br>
+10. Author Info <br>
+11. Deployed Link <br>
+
+
 ## Technologies Used
 
 |        |  | 
@@ -17,9 +32,24 @@
 
 ## User Story
 
-"AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines"
+"AS A marketing agency <br>
+I WANT a codebase that follows accessibility standards <br>
+SO THAT our own site is optimized for search engines" 
+
+
+## Acceptance Criteria
+
+"GIVEN a webpage meets accessibility standards <br>
+WHEN I view the source code <br>
+THEN I find semantic HTML elements <br>
+WHEN I view the structure of the HTML elements <br>
+THEN I find that the elements follow a logical structure independent of styling and positioning <br>
+WHEN I view the image elements <br>
+THEN I find accessible alt attributes <br>
+WHEN I view the heading attributes <br>
+THEN they fall in sequential order <br>
+WHEN I view the title element <br>
+THEN I find a concise, descriptive title"
 
 ## Description
 
@@ -37,11 +67,13 @@ The user can click the deployed link to explore the website and its marketing se
 
 ## Mockup
 
+The following image shows the web application's appearance and functionality:
 
+![A website called "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.](https://static.bc-edx.com/coding/software-dev/01-HTML-Git-CSS/assets/01-html-css-git-homework-demo.png) 
 
 ## Contributors
 
-Horiseon Social Solution Services, Inc.
+Horiseon Social Solution Services, Inc. <br>
 Heather Serrano (magneticsoul7) - Refactored Horiseon's code in HTML & CSS to make their website accessible and efficient.
 
 ## License
@@ -50,12 +82,12 @@ No License.
 
 ## Author Info
 
-* [Portfolio] TBA - to be added
-* [LinkedIn] TBA
-* [Github] TBA
+|        |  | 
+| ------------- |:-------------:| 
+| Portfolio | TBA - to be added | 
+| LinkedIn  | https://www.linkedin.com/in/heather7serrano/ |   
+| Github    | https://github.com/MagneticSoul7?tab=repositories |   
 
 ## Deployed Link 
 
 https://magneticsoul7.github.io/Challenge01-RefactorToMakeAccessible/
-
-(Having technical errors with the deployed website - Trying to fix it)
