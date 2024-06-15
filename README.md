@@ -72,8 +72,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Contributors
 
-Horiseon Social Solution Services, Inc. <br>
-Heather Serrano (magneticsoul7) - Refactored Horiseon's code in HTML & CSS to make their website accessible and efficient.
+* Horiseon Social Solution Services, Inc. <br>
+* Heather Serrano (magneticsoul7) - Refactored Horiseon's code in HTML & CSS to make their website accessible and efficient.
 
 ## License
 
